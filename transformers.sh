@@ -1,0 +1,1 @@
+python assignment.py --type transformer --task both --data ../data/data.p --epochs 4 --batch_size 128 --chkpt_path ../transformer_model

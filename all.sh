@@ -1,0 +1,2 @@
+python assignment.py --type rnn --task both --data ../data/data.p --epochs 4 --chkpt_path ../rnn_model
+python assignment.py --type transformer --task both --data ../data/data.p --epochs 3 --chkpt_path ../transformer_model
